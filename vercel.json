@@ -29,6 +29,6 @@
         "DB_HOST": "4gg.h.filess.io",
         "DB_PORT": "3306",
         "DB_DATABASE": "baru",
-        "DB_USERNAME": "roor"
+        "DB_USERNAME": "root"
     }
 }
