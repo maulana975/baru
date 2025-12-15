@@ -9,8 +9,7 @@
         { "src": "/(.*)", "dest": "/api/index.php" }
     ],
     "public": true,
-    "installCommand": "composer install --no-dev --no-interaction --optimize-autoloader && npm ci",
-    "buildCommand": "npm run build",
+    "buildCommand": "vite build",
     "outputDirectory": "public",
     "env": {
         "APP_ENV": "production",
