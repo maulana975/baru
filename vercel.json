@@ -10,7 +10,7 @@
     ],
     "public": true,
     "buildCommand": "vite build",
-    "outputDirectory": "public",
+    "outputDirectory": "dist",
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
