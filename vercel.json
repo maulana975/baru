@@ -11,7 +11,7 @@
     "public": true,
     "installCommand": "composer install --no-dev --no-interaction --optimize-autoloader && npm ci",
     "buildCommand": "npm run build",
-    "outputDirectory": "public/build",
+    "outputDirectory": "dist",
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
